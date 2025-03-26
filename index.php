@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Накрутка инстаграм лайков, подписчиков, просмотров</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Быстрый Заказ</h1>
+        <p class="subtitle">Накрутка инстаграм подписчиков, лайков, просмотров. Первый раз попробовать бесплатно только просмотры и лайки</p>
+        
+        <h3>Выберите категорию услуг</h3>
+        <div class="services">
+            <a href="subscribers.php" class="service">
+                <span class="icon">👤</span> Подписчики живые
+            </a>
+            <a href="curses.php" class="service">
+                <span class="icon">❤️</span> Лайки живые
+            </a>
+            <a href="views.php" class="service">
+                <span class="icon">👁️</span> Просмотры видео
+            </a>
+            <a href="https://t.me/daryadelru" class="service">
+                <span class="icon">✍️</span> Связь с Админ
+            </a>
+            <a href="admin/" class="service">
+                <span class="icon">👮‍♂️</span> Вход Админ
+            </a>
+        </div>
+    </div>
+</body>
+</html>
